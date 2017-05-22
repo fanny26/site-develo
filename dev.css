@@ -1,0 +1,161 @@
+body { 
+        background-image: url("http://wallpapersqq.net/wp-content/uploads/2015/09/white-abstract-wallpapers-12.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        max-width: 1892px;
+        height: 1220px;
+        margin: 0;
+        padding: 0;
+}
+
+
+
+.image {
+        width: 600px;
+        height: 500px;  
+        text-align: center;  
+        background-position: center;   
+}
+
+
+ul {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+}
+
+
+.test {
+        text-align: center;
+        margin: 0;
+}
+
+
+.test1 {  
+        display: inline-block;
+        text-decoration: none;
+        text-align: center;
+        padding: 1em;
+        border: 4px outset;
+        border-color: black tomato black tomato;
+        color: dimgray;
+        font-family: 'Lucida Console', Monaco, monospace;
+} 
+
+
+.text {
+    border-color: tomato tomato dimgray black;
+    border-style: groove;
+    border-width: 4px;
+    color: dimgray;
+    display: inline-block;
+    float: right;
+    font-size: 22px;
+    font-style: italic;
+    font-variant: all-small-caps;
+    text-align: center;
+    width: 30em;
+
+}
+
+
+.text2 {
+        font-size: 22px;
+        font-style: italic;
+        font-variant: all-small-caps;
+        text-align: center;
+        color: dimgrey;
+        top: 14em;
+        margin-right: 51em;
+        margin-left: 1em;
+        border-top: 4px groove dimgrey;
+        border-bottom: 4px groove tomato;
+        border-left: 4px groove tomato;
+        border-right: 4px groove dimgrey;    
+}
+
+
+span {
+        color:tomato;   
+}
+
+
+.baniere {
+    color: dimgray;
+    display: table;
+    font-size: 1.25em;
+    margin: 1em auto auto;
+    text-decoration: none;
+
+}
+
+
+#bordure {
+        background-color: #222;
+        position: fixed;
+        width: 100%;
+        height: 70px;
+        bottom: 0;  
+}
+
+
+a  {
+        color: dimgray;
+        text-decoration: none;
+        font-size: 20px;
+        position: relative;
+        text-align: center;   
+}   
+
+
+.et-social-icons li {
+        display: inline-block;
+        margin-left: 20px;
+}
+
+
+.twitter  {
+    float: right;
+    margin-right: 1em;
+    
+}
+.twitter img {
+    width: 90px;
+} 
+
+h2  {
+       border-color: dimgrey dimgrey tomato tomato;
+        border-style: groove;
+        border-width: 4px;
+        color: dimgrey;
+        font-size: 22px;
+        font-style: italic;
+        font-variant: all-small-caps;
+        margin-left: 28em;
+        margin-right: 30em;
+        position: relative;
+        text-align: center;
+        top: -3em;
+    
+} 
+
+
+.laform  {
+        color: dimgray;
+        font-size: 22px;
+        text-align: center;
+        border-top: 4px groove tomato;
+        border-bottom: 4px groove dimgray;
+        border-left: 4px groove black;
+        border-right: 4px groove tomato;
+        margin-left: 52em;
+}
+body > header {
+    
+    
+}
+      
+section header {
+    
+    
+}
