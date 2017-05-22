@@ -22,7 +22,7 @@
 <br>
 <br> 
 
-<h2>La Formation c'est? quoi?</h2>
+<h2>La Formation c'est quoi?</h2>
   
         <div class="laform">
         <ul>
