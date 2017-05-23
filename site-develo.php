@@ -5,7 +5,13 @@
 
     <body>
  <?php include ('header.html'); ?>
-
+ 
+ <p class="text">
+     Pour la première fois en <span>Isère</span>, mais aussi la première fois dans un petit <span>village</span> authentique adossé au <span>Vercors</span>, Simplon.co propose une <span>formation</span> en développement web, en <span>PHP</span>, gratuite et intensive, de 7 mois à partir du mois d’<span>avril 2017</span>.
+ </p>        
+        
+        </header>
+    
 <?php include ('nav.html'); ?>
 <br> 
 <br>
@@ -25,6 +31,6 @@
         
 <?php include ('footer.html'); ?>  
         
-    </body>s
+    </body>
     </html>
     
