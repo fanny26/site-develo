@@ -8,7 +8,10 @@
     <body>
 <?php include ('header.html'); ?>
 
+        
 <?php include ('nav.html'); ?>
+<img class="photo" src="promo1.jpg">    
+        
 <?php include ('footer.html'); ?>
     </body>
     </html>

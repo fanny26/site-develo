@@ -7,11 +7,7 @@
 </head>
 
     <body>
-<header>
-    <div>
-    <img class="image" src="http://simplon.co/wp-content/uploads/2017/01/logo-developont.png"> 
-    </div>
-</header>
+<?php include ('header.html'); ?>
 
 <?php include ('nav.html'); ?>
 <br> 
